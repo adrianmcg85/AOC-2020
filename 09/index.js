@@ -23,23 +23,3 @@ for(i=25; i < lines.length; i++){
 }
 
 
-// for (i = init; i < last; i++) {
-//     if (i === init) {
-//         sum = []
-//     }
-//     for (j = init; j < last; j++) {
-//         sum[i] = (inArr[i] + inArr[j])
-//     }
-//     if (l === last - 1) {
-//         let next = parseInt(lines[last])
-//         if (sum.includes(next)) {
-//             init++
-//             last++
-//             i = init
-//         }
-//         else {
-//             console.log(next)
-//         }
-//     }
-// }
-
